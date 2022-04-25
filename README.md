@@ -18,7 +18,7 @@ Program po uruchomieniu wyświetla menu główne składajace sie z opcji:
 • Exit – wyjscie
 
 Po uruchomieniu nowej gry, gracz zostanie zapytany w osobnym oknie jaki stopien trudnosci
-chce rozegrac (implementacja stopni trudnosci dowolna). 
+chce rozegrac (implementacja stopni trudnosci za pomocą suwaka). 
 Po uruchomieniu gry w nowym oknie
 wyswietlana jest plansza gry, a licznik czasu rusza (licznik czasu realizowany w osobnym watku, zeby nie blokowac interakcji z oknem).
 Podczas gry widoczny licznik punktów oraz czasu, aktualizowane na zywo podczas rozgrywki.
